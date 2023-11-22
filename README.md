@@ -17,5 +17,6 @@ React, VueJs, Javascript Animations
   - text me on telegram: https://t.me/irina_vikhrova 
   - e-mail me: vikhrova.irina@gmail.com 
 
-### ⚡ Fun fact: I am a digital nomad and passionate about travel
+### ⚡ Fun fact:
+ I am a digital nomad and passionate about travel 
 
