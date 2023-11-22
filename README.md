@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Irina
 
 I am a Frontend Developer, currently working in OptimalGroup remotely.
 
