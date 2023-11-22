@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**vikhri/vikhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Frontend Developer, currently working in OptimalGroup remotely.
 
-Here are some ideas to get you started:
+- 🖥️ My tech stack:
+   HTML, PUG, CSS, Sass, PostCss, Vanilla JavaScript, VueJs, React, Figma.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Education
+  2015 Bachelor of Infocommunication technologies, networks and services (SSUT)
+  2022 Professional Website Layout, Adaptive Layout (HTML Academy)
+  2022 JavaScript Fundamentals (Udemy)
+
+- 🌱 I’m currently learning React, VueJs, Javascript Animation
+
+- 📫 How to reach me: 
+  text me on telegram: https://t.me/irina_vikhrova or e-mail me: vikhrova.irina@gmail.com 
+
+- ⚡ Fun fact: I am a digital nomad and passionate about travel
+
