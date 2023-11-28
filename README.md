@@ -18,7 +18,13 @@ React, Vue Js, Javascript Animations (GSAP)
 ### 📫 How to reach me: 
   - text me on telegram: https://t.me/irina_vikhrova 
   - e-mail me: irina.vikhrova@proton.me 
+  - linkedIn: https://www.linkedin.com/in/irina-vikhrova/ 
 
 ### ⚡ Fun fact:
  I am a digital nomad and passionate about travel 
+
+### 📑DownLoad CV:
+   - [Версия на русском языке](https://drive.proton.me/urls/TXCNNYAK6M#aUXZ3S5QTGer)
+   
+   - [English version](https://drive.proton.me/urls/8Y9XX3S45W#Twrom96k9qgK)
 
