@@ -13,7 +13,7 @@ I am a Frontend Developer, currently working in [OptimalGroup](https://optimalgr
   - 2023 React fundamentals (Udemy)
 
 ### 🌱 I’m currently learning 
-React, Vue Js, Javascript Animations (GSAP)
+Typescript
 
 ### 📫 How to reach me: 
   - text me on telegram: https://t.me/irina_vikhrova 
@@ -23,8 +23,4 @@ React, Vue Js, Javascript Animations (GSAP)
 ### ⚡ Fun fact:
  I am a digital nomad and passionate about travel 
 
-### 📑DownLoad CV:
-   - [Версия на русском языке](https://drive.proton.me/urls/TXCNNYAK6M#aUXZ3S5QTGer)
-   
-   - [English version](https://drive.proton.me/urls/8Y9XX3S45W#Twrom96k9qgK)
 
