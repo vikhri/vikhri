@@ -3,7 +3,7 @@
 I am a Frontend Developer, currently working in [OptimalGroup](https://optimalgroup.ru/) remotely.
 
 ### 🖥️ My tech stack:
-   - HTML, PUG, CSS, Sass/Less/PostCss, Vanilla JavaScript, VueJs, React, Figma, Git, Webpack, Gulp, Vite.
+   - HTML, CSS, Sass/Less/PostCss, Vanilla JavaScript, VueJs, React, Figma, Git, Webpack, Gulp, Vite.
 
 ### 🎓 Education
   - 2015 Bachelor of Infocommunication technologies, networks and services (SSUT)
@@ -21,6 +21,6 @@ Typescript
   - linkedIn: https://www.linkedin.com/in/irina-vikhrova/ 
 
 ### ⚡ Fun fact:
- I am a digital nomad and passionate about travel 
+ I passionate about travel 
 
 
