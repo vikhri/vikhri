@@ -1,26 +1,6 @@
-## Hi there 👋 My name is Irina
+## Hi, I'm Irina 👋
 
-I am a Frontend Developer, currently working in [OptimalGroup](https://optimalgroup.ru/) remotely.
+Frontend Developer (Vue · Nuxt · TypeScript) with 3+ years of commercial experience, working remotely.
+I build with an AI-first workflow — Claude Code & ChatGPT — and vibe-code small apps for my own life.
 
-### 🖥️ My tech stack:
-   - HTML, CSS, Sass/Less/PostCss, Vanilla JavaScript, VueJs, React, Figma, Git, Webpack, Gulp, Vite.
-
-### 🎓 Education
-  - 2015 Bachelor of Infocommunication technologies, networks and services (SSUT)
-  - 2022 Professional Website Layout, Adaptive Layout, JS (HTML Academy)
-  - 2022 JavaScript Fundamentals (Udemy)
-  - 2023 Vue fundamentals (Udemy)
-  - 2023 React fundamentals (Udemy)
-
-### 🌱 I’m currently learning 
-Typescript
-
-### 📫 How to reach me: 
-  - text me on telegram: https://t.me/irina_vikhrova 
-  - e-mail me: irina.vikhrova@proton.me 
-  - linkedIn: https://www.linkedin.com/in/irina-vikhrova/ 
-
-### ⚡ Fun fact:
- I passionate about travel 
-
-
+📫 [LinkedIn](https://www.linkedin.com/in/irina-vikhrova/) · [Telegram](https://t.me/irina_vikhrova) · vikhrova.irina@gmail.com
